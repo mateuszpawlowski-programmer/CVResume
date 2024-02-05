@@ -2,7 +2,7 @@
 Mateusz Pawlowski CVResume Projects.<br>
 contact: mateuszpawlowskiemail@gmail.com<br>
 <br>
-[Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
+[Super_PacMan_with_PathFinding. 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 [PacMan. 2024.](https://github.com/mateuszpawlowski-programmer/PacMan)<br>
 [ComputerChessProgram. 2024.](https://github.com/mateuszpawlowski-programmer/ComputerChessProgram)<br>
 [Tetris. 2024.](https://github.com/mateuszpawlowski-programmer/Tetris)<br>
