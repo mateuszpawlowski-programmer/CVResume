@@ -9,6 +9,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [NasaPictureViewer. 2024.](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer)<br>
 [Asteroids. 2024.](https://github.com/mateuszpawlowski-programmer/Asteroids)<br>
 [Blocks. 2023.](https://github.com/mateuszpawlowski-programmer/Blocks)<br>
+[Poker. 2023.](https://github.com/mateuszpawlowski-programmer/JavaPoker)<br>
+[Software Renderer. 2023.](https://github.com/mateuszpawlowski-programmer/SoftwareRenderer)<br>
+[Samurai-Commando. 2023.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
 <br>
 [Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding/blob/main/pacman_pathfinding.png)
@@ -31,4 +34,14 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 
 [Blocks. 2023.](https://github.com/mateuszpawlowski-programmer/Blocks)<br>
 ![alt text](https://raw.githubusercontent.com/mateuszpawlowski-programmer/Blocks/main/Blocks_03.png)<br>
+
+[Poker. 2023.](https://github.com/mateuszpawlowski-programmer/JavaPoker)<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/JavaPoker/blob/main/PokerGame.png)<br>
+
+[Software Renderer. 2023.](https://github.com/mateuszpawlowski-programmer/SoftwareRenderer)<br>
+![alt text](https://raw.githubusercontent.com/mateuszpawlowski-programmer/SoftwareRenderer/main/Software_renderer_1.png)<br>
+
+[Samurai-Commando. 2023.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
+![alt text](https://raw.githubusercontent.com/mateuszpawlowski-programmer/Samurai-Commando/main/sc_06.png)<br>
+
 
