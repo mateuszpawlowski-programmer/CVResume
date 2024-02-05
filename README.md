@@ -12,6 +12,11 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [Poker. 2023.](https://github.com/mateuszpawlowski-programmer/JavaPoker)<br>
 [Software Renderer. 2023.](https://github.com/mateuszpawlowski-programmer/SoftwareRenderer)<br>
 [Samurai-Commando. 2023.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
+[Project-Commando. 2022.](https://github.com/mateuszpawlowski-programmer/ProjectCommando)<br>
+[StereoscopicCube3D. 2023.](https://github.com/mateuszpawlowski-programmer/StereoscopicCube3D)<br>
+[SierpinskiTriangle. 2023.](https://github.com/mateuszpawlowski-programmer/SierpinskiTriangle)<br>
+[SudokuSolver. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuSolver)<br>
+[SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
 <br>
 [Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding/blob/main/pacman_pathfinding.png)
@@ -43,5 +48,17 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 
 [Samurai-Commando. 2023.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
 ![alt text](https://raw.githubusercontent.com/mateuszpawlowski-programmer/Samurai-Commando/main/sc_06.png)<br>
+
+[Project-Commando. 2022.](https://github.com/mateuszpawlowski-programmer/ProjectCommando)<br>
+![alt text](https://raw.githubusercontent.com/mateuszpawlowski-programmer/ProjectCommando/main/project_commando_000.png)<br>
+
+[StereoscopicCube3D. 2023.](https://github.com/mateuszpawlowski-programmer/StereoscopicCube3D)<br>
+[SierpinskiTriangle. 2023.](https://github.com/mateuszpawlowski-programmer/SierpinskiTriangle)<br>
+[SudokuSolver. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuSolver)<br>
+[SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
+
+
+
+
 
 
