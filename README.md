@@ -2,6 +2,10 @@
 Mateusz Pawlowski CVResume Projects.<br>
 contact: mateuszpawlowskiemail@gmail.com<br>
 <br>
+[Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
+[PacMan. 2024.](https://github.com/mateuszpawlowski-programmer/PacMan)<br>
+[ComputerChessProgram. 2024.](https://github.com/mateuszpawlowski-programmer/ComputerChessProgram)<br>
+<br>
 [[Java]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding/blob/main/pacman_pathfinding.png)
 ![alt text](https://github.com/mateuszpawlowski-programmer/PacMan/blob/main/pacman.png)<br>
