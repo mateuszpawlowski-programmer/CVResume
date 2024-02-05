@@ -17,6 +17,7 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [SierpinskiTriangle. 2023.](https://github.com/mateuszpawlowski-programmer/SierpinskiTriangle)<br>
 [SudokuSolver. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuSolver)<br>
 [SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
+[StockExchange. Bachelor thesis. 2012.](https://github.com/mateuszpawlowski-programmer/StockExchange)<br>
 <br>
 [Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding/blob/main/pacman_pathfinding.png)
@@ -57,8 +58,5 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [SudokuSolver. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuSolver)<br>
 [SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
 
-
-
-
-
-
+[StockExchange. Bachelor thesis. 2012.](https://github.com/mateuszpawlowski-programmer/StockExchange)<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/StockExchange/blob/main/praca_Inz.png)<br>
