@@ -52,10 +52,10 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [Samurai-Commando. 2023.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
 ![alt text](https://raw.githubusercontent.com/mateuszpawlowski-programmer/Samurai-Commando/main/sc_06.png)<br>
 
-[3D engine. Loads doom map e1m1.](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30)<br>
+[3D engine v 30. Loads doom map e1m1.](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30/blob/main/3d_v_30_4.png)<br>
 
-[3D engine. Loads Quake and Tomb Raider maps.](https://github.com/mateuszpawlowski-programmer/3D_engine_version_21)<br>
+[3D engine v 21. Loads Quake and Tomb Raider maps.](https://github.com/mateuszpawlowski-programmer/3D_engine_version_21)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/3D_engine_version_21/blob/main/3D_v_21_1.png)<br>
 
 
