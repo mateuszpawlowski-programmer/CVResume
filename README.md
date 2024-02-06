@@ -13,7 +13,7 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [Software Renderer. 2023.](https://github.com/mateuszpawlowski-programmer/SoftwareRenderer)<br>
 [Samurai-Commando. 2023.](https://github.com/mateuszpawlowski-programmer/Samurai-Commando)<br>
 [3D engine v 30. Loads doom e1m1 map. 2023.](https://github.com/mateuszpawlowski-programmer/3D_engine_version_30)<br>
-[3D engine v 21. Loads Quake and Tomb Raider maps. 2023](https://github.com/mateuszpawlowski-programmer/3D_engine_version_21)<br>
+[3D engine v 21. Loads Quake and Tomb Raider maps. 2023.](https://github.com/mateuszpawlowski-programmer/3D_engine_version_21)<br>
 [Project-Commando. 2022.](https://github.com/mateuszpawlowski-programmer/ProjectCommando)<br>
 [StereoscopicCube3D. 2023.](https://github.com/mateuszpawlowski-programmer/StereoscopicCube3D)<br>
 [SierpinskiTriangle. 2023.](https://github.com/mateuszpawlowski-programmer/SierpinskiTriangle)<br>
