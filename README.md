@@ -6,6 +6,7 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [PacMan. 2024.](https://github.com/mateuszpawlowski-programmer/PacMan)<br>
 [ComputerChessProgram. 2024.](https://github.com/mateuszpawlowski-programmer/ComputerChessProgram)<br>
 [Tetris. 2024.](https://github.com/mateuszpawlowski-programmer/Tetris)<br>
+[Sudoku. 2024.](https://github.com/mateuszpawlowski-programmer/Sudoku)<br>
 [NasaPictureViewer. 2024.](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer)<br>
 [Asteroids. 2024.](https://github.com/mateuszpawlowski-programmer/Asteroids)<br>
 [Blocks. 2023.](https://github.com/mateuszpawlowski-programmer/Blocks)<br>
@@ -33,6 +34,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 
 [Tetris. 2024.](https://github.com/mateuszpawlowski-programmer/Tetris)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Tetris/blob/main/Tetris.png)<br>
+
+[Sudoku. 2024.](https://github.com/mateuszpawlowski-programmer/Sudoku)<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/Sudoku/blob/main/Sudoku.png)<br>
 
 [NasaPictureViewer. 2024.](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer/blob/main/Nasa_picture_viewer.png)<br>
