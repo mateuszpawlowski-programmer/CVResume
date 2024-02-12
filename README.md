@@ -2,6 +2,7 @@
 Mateusz Pawlowski CVResume Projects.<br>
 contact: mateuszpawlowskiemail@gmail.com<br>
 <br>
+[RubikCube3D. 2024.](https://github.com/mateuszpawlowski-programmer/RubikCube3D)<br>
 [Super_PacMan_with_PathFinding. 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 [PacMan. 2024.](https://github.com/mateuszpawlowski-programmer/PacMan)<br>
 [ComputerChessProgram. 2024.](https://github.com/mateuszpawlowski-programmer/ComputerChessProgram)<br>
@@ -21,6 +22,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [SudokuSolver. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuSolver)<br>
 [SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
 [StockExchange. Bachelor thesis. 2012.](https://github.com/mateuszpawlowski-programmer/StockExchange)<br>
+
+[RubikCube3D. 2024.](https://github.com/mateuszpawlowski-programmer/RubikCube3D)<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/RubikCube3D/blob/main/RubikCube3D.png)<br>
 <br>
 [Super_PacMan_with_PathFinding. :D 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding/blob/main/pacman_pathfinding.png)
