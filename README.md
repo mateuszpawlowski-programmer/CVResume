@@ -2,7 +2,7 @@
 Mateusz Pawlowski CVResume Projects.<br>
 contact: mateuszpawlowskiemail@gmail.com<br>
 <br>
-[NauralNetworkGame. 2024.](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame)<br>
+[NeuralNetworkGame. 2024.](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame)<br>
 [RubikCube3D. 2024.](https://github.com/mateuszpawlowski-programmer/RubikCube3D)<br>
 [Super_PacMan_with_PathFinding. 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
 [PacMan. 2024.](https://github.com/mateuszpawlowski-programmer/PacMan)<br>
