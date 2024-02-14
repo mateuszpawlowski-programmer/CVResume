@@ -24,6 +24,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
 [StockExchange. Bachelor thesis. 2012.](https://github.com/mateuszpawlowski-programmer/StockExchange)<br>
 
+[NeuralNetworkGame. 2024.](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame)<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame/blob/main/NeuralNetworkGame.png)<br>
+<br>
 [RubikCube3D. 2024.](https://github.com/mateuszpawlowski-programmer/RubikCube3D)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/RubikCube3D/blob/main/RubikCube3D.png)<br>
 <br>
