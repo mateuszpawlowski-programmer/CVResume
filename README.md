@@ -10,6 +10,7 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [Tetris. 2024.](https://github.com/mateuszpawlowski-programmer/Tetris)<br>
 [Sudoku. 2024.](https://github.com/mateuszpawlowski-programmer/Sudoku)<br>
 [NasaPictureViewer. 2024.](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer)<br>
+[JetFighter. 2024.](https://github.com/mateuszpawlowski-programmer/JetFighter)<br>
 [Asteroids. 2024.](https://github.com/mateuszpawlowski-programmer/Asteroids)<br>
 [Blocks. 2023.](https://github.com/mateuszpawlowski-programmer/Blocks)<br>
 [Poker. 2023.](https://github.com/mateuszpawlowski-programmer/JavaPoker)<br>
@@ -48,6 +49,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 
 [NasaPictureViewer. 2024.](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/NasaPictureViewer/blob/main/Nasa_picture_viewer.png)<br>
+
+[JetFighter. 2024.](https://github.com/mateuszpawlowski-programmer/JetFighter)<br>
+![alt text](https://github.com/mateuszpawlowski-programmer/JetFighter/blob/main/jet_fighter_1.png)<br>
 
 [Asteroids. 2024.](https://github.com/mateuszpawlowski-programmer/Asteroids)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/Asteroids/blob/main/Asteroids.png)<br>
