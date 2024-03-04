@@ -2,6 +2,7 @@
 Mateusz Pawlowski CVResume Projects.<br>
 contact: mateuszpawlowskiemail@gmail.com<br>
 <br>
+[VideoRentalSystem (Java). 2024.](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem)<br>
 [NeuralNetworkGame. 2024.](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame)<br>
 [RubikCube3D. 2024.](https://github.com/mateuszpawlowski-programmer/RubikCube3D)<br>
 [Super_PacMan_with_PathFinding. 2024.](https://github.com/mateuszpawlowski-programmer/Super_PacMan_with_PathFinding)<br>
@@ -25,6 +26,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
 [StockExchange. Bachelor thesis. 2012.](https://github.com/mateuszpawlowski-programmer/StockExchange)<br>
 
+[VideoRentalSystem (Java). 2024.](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem)<br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_4.png?raw=true)<br>
+<br>
 [NeuralNetworkGame. 2024.](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame)<br>
 ![alt text](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame/blob/main/NeuralNetworkGame.png)<br>
 <br>
