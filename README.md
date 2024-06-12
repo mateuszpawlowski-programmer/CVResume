@@ -2,6 +2,7 @@
 Mateusz Pawlowski CVResume Projects.<br>
 contact: mateuszpawlowskiemail@gmail.com<br>
 <br>
+[Donkey Kong (Java). 2024.](https://github.com/mateuszpawlowski-programmer/DonkeyKong)<br>
 [VideoRentalSystem (Java). 2024.](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem)<br>
 [NeuralNetworkGame. 2024.](https://github.com/mateuszpawlowski-programmer/NeuralNetworkGame)<br>
 [RubikCube3D. 2024.](https://github.com/mateuszpawlowski-programmer/RubikCube3D)<br>
@@ -26,6 +27,9 @@ contact: mateuszpawlowskiemail@gmail.com<br>
 [SudokuGenerator. 2023.](https://github.com/mateuszpawlowski-programmer/SudokuGenerator)<br>
 [StockExchange. Bachelor thesis. 2012.](https://github.com/mateuszpawlowski-programmer/StockExchange)<br>
 
+[DonkeyKong (Java). 2024.](https://github.com/mateuszpawlowski-programmer/DonkeyKong)<br>
+![alt_text](https://github.com/mateuszpawlowski-programmer/DonkeyKong/blob/main/DonkeyKong_Java_1.png)<br>
+<br>
 [VideoRentalSystem (Java). 2024.](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem)<br>
 ![alt_text](https://github.com/mateuszpawlowski-programmer/VideoRentalSystem/blob/main/VideoRentalSystem_4.png?raw=true)<br>
 <br>
